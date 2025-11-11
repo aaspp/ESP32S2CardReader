@@ -7,4 +7,4 @@
 
 Wiring Guide:
 
-![main](pics/wiringDiagram.png)
+![main](pics/ESP32S2Diagram.jpg)
